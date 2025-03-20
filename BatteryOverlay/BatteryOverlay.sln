@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryOverlay", "BatteryOverlay.csproj", "{9C8B5C87-4A26-68FF-9352-E8A4D2FA516A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryOverlay.Desktop", "..\BatteryOverlay.Desktop\BatteryOverlay.Desktop.csproj", "{41D7E9DC-9FB2-A923-0EB0-FB261C62658B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8B5C87-4A26-68FF-9352-E8A4D2FA516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8B5C87-4A26-68FF-9352-E8A4D2FA516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8B5C87-4A26-68FF-9352-E8A4D2FA516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8B5C87-4A26-68FF-9352-E8A4D2FA516A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D7E9DC-9FB2-A923-0EB0-FB261C62658B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D7E9DC-9FB2-A923-0EB0-FB261C62658B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D7E9DC-9FB2-A923-0EB0-FB261C62658B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D7E9DC-9FB2-A923-0EB0-FB261C62658B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C97C0D-A2E8-406E-925C-E0D4B4542668}
+	EndGlobalSection
+EndGlobal
