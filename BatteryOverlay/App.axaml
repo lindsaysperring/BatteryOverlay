@@ -4,6 +4,12 @@
              RequestedThemeVariant="Default">
              <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
 
+    <Application.Resources>
+        <TrayIcon x:Key="MainTrayIcon"
+                  Icon="/Assets/avalonia-logo.ico"
+                  ToolTipText="Battery Overlay" />
+    </Application.Resources>
+
     <Application.Styles>
         <FluentTheme />
     </Application.Styles>
